@@ -1,1 +1,2 @@
 # Top-companies-globally-powerbi-project
+The Global Top Countries Analysis Power BI dashboard provides a comprehensive visual representation of key indicators and metrics to highlight the performance and standings of countries on a global scale. Leveraging the capabilities of Power BI, this dashboard aims to offer actionable insights and facilitate data-driven decision-making by presenting data in an intuitive and visually appealing manner.
